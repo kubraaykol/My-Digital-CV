@@ -44,9 +44,7 @@ Or in Visual Studio, go to **Tools > NuGet Package Manager > Manage NuGet Packag
 
 ## 📬 Contact
 📧 Email: kubraaykol@outlook.com  
-🔗 LinkedIn: [LinkedInProfile](https://linkedin.com/in/kubraaykol)  
-🐙 GitHub: [GitHubProfile](https://github.com/kubraaykol)  
-
+🔗 LinkedIn: [LinkedInProfile](https://linkedin.com/in/kubraaykol)   
 ---
 This project follows the MVC architectural pattern and is designed to be a professional showcase of my development skills. 😊🚀
 
