@@ -42,9 +42,6 @@ Or in Visual Studio, go to **Tools > NuGet Package Manager > Manage NuGet Packag
 - Press `F5` or click **Start Debugging** to run the project
 - The application should open in your default browser
 
-## 📬 Contact
-📧 Email: kubraaykol@outlook.com  
-🔗 LinkedIn: [LinkedInProfile](https://linkedin.com/in/kubraaykol)   
 ---
 This project follows the MVC architectural pattern and is designed to be a professional showcase of my development skills. 😊🚀
 
